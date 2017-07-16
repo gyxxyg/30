@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>tree.png</file>
+        <file>huaji.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>book.png</file>
+        <file>de1.png</file>
+        <file>de2.png</file>
+        <file>drop1.png</file>
+        <file>drop2.png</file>
+        <file>map.png</file>
+        <file>hat.png</file>
+        <file>book2.png</file>
+        <file>book3.png</file>
+        <file>book4.png</file>
+        <file>hb1.png</file>
+        <file>hb2.png</file>
+        <file>9345d688d43f87949cc7ef44d41b0ef41bd53a9b.png</file>
+        <file>js.png</file>
+        <file>12128673_165429543178_2.jpg</file>
+    </qresource>
+</RCC>
